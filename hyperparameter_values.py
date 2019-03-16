@@ -1,0 +1,1 @@
+HYPERPARAMETER_VALUES={'kernel':'rbf','C':256.0,'gamma':0.015625}
